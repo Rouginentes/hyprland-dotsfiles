@@ -1,5 +1,10 @@
 # hyprland-dotsfiles
     Custom Hyprland rice for Wayland-based minimal desktop. Includes Waybar, Wofi, thunar, kitty, haprpaper, wallpapers, themes, and personal tweaks for a clean workflow.
+install (hyprland, wofi, thunar, waybar, hyprpaper, nwg-look, kitty, cava, cmatrix)
+
+fedora - sudo dnf install ....
+arch, manjaro - sudo pacman -S ....
+ubuntu - sudo apt-get install ....
 
 ![screenshot](https://github.com/user-attachments/assets/bbee32e6-10a1-4a61-98f7-c1114e783e74)
 ![screenshot](https://github.com/user-attachments/assets/f71c4ead-f7d0-4cfb-be53-dad73e75a041)
